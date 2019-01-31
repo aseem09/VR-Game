@@ -1,0 +1,41 @@
+Mono path[0] = 'C:/Users/sv/Documents/Game1/Game11_Data/Managed'
+Mono path[1] = 'C:/Users/sv/Documents/Game1/Game11_Data/Mono'
+Mono config path = 'C:/Users/sv/Documents/Game1/Game11_Data/Mono/etc'
+PlayerConnection initialized from C:/Users/sv/Documents/Game1/Game11_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55309
+Multi-casting "[IP] 192.168.1.9 [Port] 55309 [Flags] 3 [Guid] 1834364542 [EditorId] 1695552928 [Version] 1048832 [Id] WindowsPlayer(sv-VAIO) [Debug] 1" to [225.0.0.222:54997]...
+Waiting for connection from host on [0.0.0.0:55309]...
+Timed out. Continuing without host connection.
+Started listening to [0.0.0.0:55309]
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,defer=y,address=0.0.0.0:56542
+PlayerConnection already initialized - listening to [0.0.0.0:55309]
+Player data archive not found at `C:/Users/sv/Documents/Game1/Game11_Data/data.unity3d`, using local filesystemInitialize engine version: 5.6.6f2 (6bac21139588)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 4000 (ID=0x166)
+    Vendor:   Intel
+    VRAM:     808 MB
+    Driver:   8.15.10.2618
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\sv\Documents\Game1\Game11_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\sv\Documents\Game1\Game11_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\sv\Documents\Game1\Game11_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\sv\Documents\Game1\Game11_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\sv\Documents\Game1\Game11_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\sv\Documents\Game1\Game11_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\sv\Documents\Game1\Game11_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\sv\Documents\Game1\Game11_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\sv\Documents\Game1\Game11_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\sv\Documents\Game1\Game11_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.112 seconds
+Platform assembly: C:\Users\sv\Documents\Game1\Game11_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\sv\Documents\Game1\Game11_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 4.607334 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 7008 -> priority: 1 
+  Thread -> id: 6454 -> priority: 1 
